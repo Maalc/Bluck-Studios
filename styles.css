@@ -218,6 +218,16 @@ footer #information .info_content {
     padding-top: 0;
     margin-bottom: 11px;
 }
+footer #information .info_content .customers_info .about-us{
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: center;
+}
+footer #information .info_content .customers_info .about-us:hover{
+    color: #777;
+    text-decoration: overline;
+}
 
 footer #information .customers_info {
     padding: 10px auto;
