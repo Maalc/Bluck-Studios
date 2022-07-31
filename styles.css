@@ -222,11 +222,11 @@ footer #information .info_content .customers_info .about-us{
     color: #fff;
     font-size: 12px;
     text-decoration: none;
-    text-align: center;
+    text-align: justify;
 }
 footer #information .info_content .customers_info .about-us:hover{
     color: #777;
-    text-decoration: overline;
+    text-decoration: underline;
 }
 
 footer #information .customers_info {
