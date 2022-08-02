@@ -1035,9 +1035,41 @@ main #register_form label{
     font-size: 15px;
     text-align: center;
 }
+
 main #register_form label p{
     text-align: center;
     padding: 5px;
+}
+
+/*************************************
+**************************************
+**************************************
+***            ABOUT US            ***
+**************************************
+**************************************
+**************************************/
+
+main .about-us-container{
+    width: 100%;
+    background: #0007;
+}
+
+main .about-us-container h1{
+    text-align: center;
+}
+
+main .about-us-container p{
+    padding: 5px 60px;
+    padding-bottom: 10px;
+    font-size: 17px;
+    text-align: justify;
+    letter-spacing: .5px;
+}
+
+main .about-us-container b{
+    color: #219;
+    box-shadow: 0px 2px 5px;
+    background: #fff5;
 }
 
 /***************************************************
